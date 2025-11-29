@@ -1,4 +1,3 @@
-
 ![Estado del proyecto](https://img.shields.io/badge/estado-en%20desarrollo-blue)
 ![Lenguaje](https://img.shields.io/badge/python-3.10+-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-DB-lightgrey)
@@ -6,7 +5,7 @@
 ![Licencia](https://img.shields.io/badge/licencia-MIT-brightgreen)
 ![Talento Tech](https://img.shields.io/badge/Programa-Talento%20Tech-purple)
 
-# 📦 Sistema de Gestión de Inventario – Python + SQLite
+# 📊 Sistema de Gestión de Inventario – Python + SQLite
 
 Este proyecto es un sistema simple de gestión de inventario desarrollado en Python, utilizando **SQLite** como base de datos local. Incluye funciones para agregar, editar, buscar, listar y eliminar productos.
 
